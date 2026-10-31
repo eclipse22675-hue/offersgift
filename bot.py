@@ -1,4 +1,3 @@
-python bot.py
 import asyncio
 import logging
 import os
